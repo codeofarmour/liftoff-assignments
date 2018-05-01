@@ -11,7 +11,7 @@
 
 
 ### Ariel's Group
-- [Alvarez, Raimir]()
+- [Alvarez, Raimir (@Xelfray)](https://github.com/Xelfray/liftoff-assignments)
 - [Cook, James @JamesCook75](https://github.com/JamesCook75/liftoff-assignments)
 - [Corrao, Paul (@PaulC2017)](https://github.com/PaulC2017/liftoff-assignments.git)
 - [El-moghrabi, Omar]()
@@ -47,25 +47,25 @@
 - [Egelfeld, Jerry]()
 - [Entrot, Lekecia @GurlFriday88](https://github.com/GurlFriday88/liftoff-assignments.git)
 - [Hegeman, Eric(@reverendin)](https://github.com/reverendin/liftoff-assignments)
-- [Joseph, Adelia]()
+- [Joseph, Adelia (@ASJOSEPH)](https://github.com/asjoseph/liftoff-assignments.git)
 - [Lai, Max (@mxlai)](https://github.com/mxlai/liftoff-assignments)
 - [Mattingly, Michael @m4cku5](https://github.com/m4cku5/liftoff-assignments)
-- [McFarquhar, Colin]()
+- [McFarquhar, Colin](https://github.com/ColinMcF/liftoff-assignments)
 - [Phivilay, Sommano (@sommano)](https://github.com/sommano/liftoff-assignments)
-- [Sironen, Daniel]()
+- [Sironen, Daniel (@dsironen)] (https://github.com/dsironen/liftoff-assignments)
 - [Thompson, Birtchum @Birtchum](https://github.com/Birtchum/liftoff-assignments)
 
 
 ### Keane's Group 
 
 - [Cobb, Tatyanna (@TatyCat)](https://github.com/TatyCat/liftoff-assignments)
-- [Do, Phuloc]()
+- [Do, Phuloc (@phulocdo)](https://github.com/phulocdo/liftoff-assignments)
 - [Gray, Adam (@adambgray)](https://github.com/adambgray/liftoff-assignments)
 - [Ivanov, German]()
 - [Kenyon, Dylan @ZingingQT23](https://github.com/ZingingQT23/liftoff-assignments)
 - [Le, Khoi @khoi938](https://github.com/Khoi938/liftoff-assignments)
 - [McClusky, Jordan (@jmlc101)](https://github.com/jmlc101/liftoff-assignments)
-- [Pichardo, Steven]()
+- [Pichardo, Steven (@stevepichardo)](https://github.com/stevepichardo/liftoff-assignments)
 - [R, Kyla @kylastyles](https://github.com/kylastyles/liftoff-assignments)
 - [SHAFFER, MARIANNE (@mdshaffer8)](https://github.com/mdshaffer8/liftoff-assignments)
 - [Warden, Brian @vonflue](https://github.com/vonflue/liftoff-assignments)
